@@ -1,0 +1,5 @@
+C:\Users\child\AstolfoGorillaTagMenu\obj\Debug\netstandard2.0\AstolfoGorillaTagMenu.csproj.AssemblyReference.cache
+C:\Users\child\AstolfoGorillaTagMenu\obj\Debug\netstandard2.0\AstolfoGorillaTagMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\child\AstolfoGorillaTagMenu\obj\Debug\netstandard2.0\AstolfoGorillaTagMenu.AssemblyInfoInputs.cache
+C:\Users\child\AstolfoGorillaTagMenu\obj\Debug\netstandard2.0\AstolfoGorillaTagMenu.AssemblyInfo.cs
+C:\Users\child\AstolfoGorillaTagMenu\obj\Debug\netstandard2.0\AstolfoGorillaTagMenu.csproj.CoreCompileInputs.cache
